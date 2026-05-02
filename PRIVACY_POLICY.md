@@ -106,6 +106,10 @@ Vous avez le droit de:
 
 Pour exercer ces droits, contactez: **support@benjaminaubry.com**
 
+### Demande de suppression des données
+
+Vous pouvez demander la suppression de vos données depuis l'application (`Paramètres > Réinitialiser le jeu`) ou via ce lien public contenant les instructions et le contact : https://zerklor.github.io/Mergestorm/data-deletion
+
 ---
 
 ## 9. Données Mandataires (Partenaires)
